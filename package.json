@@ -1,0 +1,14 @@
+{
+  "name": "dom-js",
+  "version": "0.1",
+  "dependencies": {
+    "sax": ">=0.1.5"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/dom-js",
+  "engines": {
+    "node": "*"
+  }
+}

@@ -9,6 +9,7 @@ console.log(string);
 domjs.parse(string, function(err, dom) {
 	console.log(util.inspect(dom, false, 23));
 	console.log("serializes to : " + dom.toXml());
+	console.log("dom.children[1].text() : " + dom.children[1].text());
 });
 
 domjs.reset(); //before reuse

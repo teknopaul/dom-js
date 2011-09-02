@@ -1,6 +1,6 @@
 {
   "name": "dom-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description" : "XML DOM based on sax",
   "dependencies": {
     "sax": ">=0.1.5"

@@ -1,6 +1,6 @@
 {
   "name": "dom-js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description" : "XML DOM based on sax",
   "dependencies": {
     "sax": ">=0.1.5"
@@ -16,5 +16,5 @@
       "type" : "git" , "url" : "https://github.com/teknopaul/dom-js.git" 
   },
   "author": "teknopaul",
-  "contributors": ["Rafal Jonca"]
+  "contributors": ["Rafal Jonca","Chanwit Kaewkasi"]
 }

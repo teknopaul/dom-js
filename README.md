@@ -22,6 +22,7 @@ The Element object has a method toXml() which returns a String with whitespace i
 
 For example 
 
+    var util = require('util');
     var DomJS = require("dom-js").DomJS;
 
     var domjs = new DomJS();

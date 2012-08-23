@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/teknopaul/dom-js.png)](http://travis-ci.org/teknopaul/dom-js)
 # dom-js #
 
 dom-js is a node module that creates a DOM from a String using sax-js.

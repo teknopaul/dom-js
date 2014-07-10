@@ -1,3 +1,11 @@
+This project is deprecated, it was quick hack written back in the day when there was no other XML DOM for nodejs.
+
+https://www.npmjs.org/package/xmldom provides a W3C compatable DOM for nodejs which is recommended for new code.
+
+
+
+
+
 # dom-js #
 
 dom-js is a node module that creates a DOM from a String using sax-js.
